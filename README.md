@@ -1,4 +1,4 @@
-Olá, sejam bem-vindos ao meu GitHub.
+Olá, seja bem-vindo ao meu GitHub.
 
 Estou em transição de carreira (Formada em Enfermagem desde julho/2011 pela Universidade de Pernambuco).
 Atualmente, cursando Análise e Desenvolvimento de Sistemas.
