@@ -1,10 +1,8 @@
-Em transição de carreira (Formada em Enfermagem desde julho/2011 pela Universidade de Pernambuco).
+Olá, sejam bem-vindos ao meu GitHub.
 
-Estudante de Tecnologia:
-Cursando Análise e Desenvolvimento de Sistemas (UNINASSAU).
-Embaixadora: DIO Campus Expert.
-Aluna: DIO PRO.
-Aluna: Udemy.
+Estou em transição de carreira (Formada em Enfermagem desde julho/2011 pela Universidade de Pernambuco).
+Cursando Análise e Desenvolvimento de Sistemas.
+Embaixadora da maior plataforma de educação impulsioada por IA para aprender tecnologia da América Latina - DIO (Digital Innovation One).
 
 No momento estou realizando:
 Bootcamp DIO Campus Expert (DIO - Digital Innovation One).
