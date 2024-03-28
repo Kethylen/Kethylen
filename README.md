@@ -17,4 +17,4 @@ Realizado pela Empresa: Certificado Cursos Online (Empresa associada à ABED –
 
 Contatos:
 E-mail: kethylen_bene@hotmail.com
-LinkedlIn: https://www.linkedin.com/in/k%C3%A9thylen-benevides-86900a266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+LinkedIn: https://www.linkedin.com/in/k%C3%A9thylen-benevides-86900a266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
