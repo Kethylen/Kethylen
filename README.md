@@ -1,7 +1,7 @@
 Olá, sejam bem-vindos ao meu GitHub.
 
 Estou em transição de carreira (Formada em Enfermagem desde julho/2011 pela Universidade de Pernambuco).
-Cursando Análise e Desenvolvimento de Sistemas.
+Atualmente, cursando Análise e Desenvolvimento de Sistemas.
 Embaixadora da maior plataforma de educação impulsioada por IA para aprender tecnologia da América Latina - DIO (Digital Innovation One).
 
 No momento estou realizando:
