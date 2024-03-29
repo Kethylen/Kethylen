@@ -12,7 +12,7 @@ Graduação em Análise e Desenvolvimento de Sistemas (UNINASSAU).
 
 Finalizei:
 Curso Java em março/2024 (Certificado Cursos Online);
-Série Inteligência Artificial: Carreira do Futuro em março/2024 (Exame).
+Série Inteligência Artificial: Carreira do Futuro em março/2024 (Faculdade Exame).
 
 Contatos:
 E-mail: kethylen_bene@hotmail.com ;
