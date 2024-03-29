@@ -8,6 +8,7 @@ No momento estou realizando:
 Bootcamp DIO Campus Expert (DIO - Digital Innovation One).
 Bootcamp Orange Tech+ | Backend (DIO - Digital Innovation One).
 Curso Java completo - Programação Orientada a Objetos + Projetos (Udemy).
+Série Inteligência Artificial: Carreira do Futuro (Exame).
 Graduação em Análise e Desenvolvimento de Sistemas (UNINASSAU).
 
 Finalizei o curso de Java em março/2024.
