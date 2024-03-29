@@ -8,11 +8,11 @@ No momento estou realizando:
 Bootcamp DIO Campus Expert (DIO - Digital Innovation One).
 Bootcamp Orange Tech+ | Backend (DIO - Digital Innovation One).
 Curso Java completo - Programação Orientada a Objetos + Projetos (Udemy).
-Série Inteligência Artificial: Carreira do Futuro (Exame).
 Graduação em Análise e Desenvolvimento de Sistemas (UNINASSAU).
 
-Finalizei o curso de Java em março/2024.
-Realizado pela Empresa: Certificado Cursos Online (Empresa associada à ABED – Associação Brasileira de Educação a Distância).
+Finalizei:
+Curso Java em março/2024 (Certificado Cursos Online).
+Série Inteligência Artificial em março/2024: Carreira do Futuro (Exame).
 
 Contatos:
 E-mail: kethylen_bene@hotmail.com
