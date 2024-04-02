@@ -16,4 +16,4 @@ Série Inteligência Artificial: Carreira do Futuro em março/2024 (Faculdade Ex
 
 Contatos:
 E-mail: kethylen_bene@hotmail.com ;
-LinkedIn: https://www.linkedin.com/in/k%C3%A9thylen-benevides-86900a266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+LinkedIn: https://www.linkedin.com/in/k%C3%A9thylen-benevides-86900a266
